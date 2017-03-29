@@ -3,7 +3,6 @@
  */
 'use strict'
 import React, {PureComponent} from 'react'
-import Header from '../header/Header.jsx'
 import axios from 'axios'
 import Reveal from 'reveal.js/js/reveal';
 import 'reveal.js/css/reveal.css'
