@@ -64,6 +64,11 @@ class App extends PureComponent {
         console.log('App' + 'rendering');
         return (
             <div className="PPT_Contariner" >
+                {/*<div className="container">*/}
+                    {/*<div className="vhcontainer">*/}
+                        {/*123*/}
+                    {/*</div>*/}
+                {/*</div>*/}
             <div className="reveal">
                 <div className="slides">
                     <section><div className="pg pg1">123</div></section>

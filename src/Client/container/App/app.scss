@@ -7,14 +7,19 @@
  * @内容 作用
  * @内容 作用 
  */
-div.app{
 
-}
 div.PPT_Contariner{
-  height: 100vh;
-  width: 100vw;
+  height: auto;
+  width: 100%;
+  div.container{
+    width: 100%;
+    height: auto;
+    div.vhcontainer{
+      height: 100vh;
+    }
+  }
   div.pg{
-
-
+    height: 100vh;
+    width: 100vw;
   }
 }
